@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">firebase_login</string>
+    <string name="login">Login\n</string>
+    <string name="email">Email\n</string>
+    <string name="password">Password</string>
+    <string name="register">Register\n</string>
+    <string name="click_to_login">тыкни сюда для регистрации</string>
+    <string name="click_to_register">тыкни сюда чтобы зарегаться</string>
+    <string name="logout">Logout</string>
+</resources>
